@@ -1,2 +1,6 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article
+Read: [We need visual programming. No, not like that.](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+## What I like about the article: 
+This article interested me because it spoke on an aspect of coding I generally never considered--the lack of usage of visual programming environments.  Considering the benefits in making code even more accessible to people as AI continues to dominate, it's interesting to see why exactly developers unknowingly stray from it.  The article argues that developers tend to prioritze other aspects of software to visualize then the logic being replaced in visual programming.  And yet despite the failures of these visualizations, there are a few that are heavily used such as the DOM element inspector view.  
+
+The article also shows amazing example visualizations of codebases and memory layouts that a developer would usualy make on their own in some diagram form.  Having tools that can take a software and generate these visuals is generally just fascinating.
